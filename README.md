@@ -10,3 +10,5 @@
   A/B тестирование
   Визуализация данных
 
+# Программа обучения :
+![image](https://github.com/user-attachments/assets/6b749eaa-7950-4306-8cab-8c15772281f8)
